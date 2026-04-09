@@ -1,0 +1,6 @@
+base:
+  random_state: 42
+  root_project_dir: C:/ML_Labs/LB3_ML_Yakushev
+
+data:
+  dataset_xlsx: data/Data_Set_(A+B).xlsx
