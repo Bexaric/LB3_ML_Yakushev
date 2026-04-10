@@ -2,5 +2,13 @@ base:
   random_state: 42
   root_project_dir: C:/ML_Labs/LB3_ML_Yakushev
 
+robot:
+  dist_center: 0.125
+  wheel_angle: 30
+  wheel_radius: 0.04
+
 data:
   dataset_xlsx: data/Data_Set_(A+B).xlsx
+  dataset_test_xlsx: data/Data_Set_C.xlsx
+
+  target_column: Type
