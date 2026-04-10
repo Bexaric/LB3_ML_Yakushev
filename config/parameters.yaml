@@ -12,3 +12,13 @@ data:
   dataset_test_xlsx: data/Data_Set_C.xlsx
 
   target_column: Type
+  val_size: 0.2
+  type_space: 5
+
+MLP:
+  model_params:
+    cv_folds: 3
+    solver: sigmoid
+    hidden_options: 
+    activation: relu
+    max_iter: 200
