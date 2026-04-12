@@ -17,8 +17,4 @@ data:
 
 MLP:
   model_params:
-    cv_folds: 3
-    solver: sigmoid
-    hidden_options: 
-    activation: relu
-    max_iter: 200
+    cv_folds: 4
