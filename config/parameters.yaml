@@ -9,7 +9,7 @@ robot:
 
 data:
   dataset_xlsx: data/Data_Set_(A+B).xlsx
-  dataset_processed: data/processed/Data_Set_AB_processed.xlsx
+  dataset_processed: data/processed
   dataset_test_xlsx: data/Data_Set_C.xlsx
 
   target_column: Type
